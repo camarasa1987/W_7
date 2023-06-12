@@ -1,8 +1,8 @@
-Predicting the Price of Laptops
+# Predicting the Price of Laptops
 
 Este proyecto tiene como objetivo utilizar técnicas de Machine Learning para predecir el precio de los ordenadores portátiles basándose en sus características. Para ello, se utilizan dos archivos CSV: uno de entrenamiento (train.csv) que contiene tanto las características (variables independientes) como los precios (variable dependiente), y otro de prueba (test.csv) que solo contiene las características.
 
-Proceso
+## Proceso
 
 Limpieza de datos: El primer paso del proyecto es realizar la limpieza de los datos para asegurar que estén en un formato adecuado para el análisis. EstO incluye el manejo de valores faltantes, la detección y eliminación de valores atípicos, la normalización de variables, entre otros.
 
