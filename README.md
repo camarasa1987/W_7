@@ -1,5 +1,7 @@
 # Predicting the Price of Laptops
 
+![r](https://github.com/camarasa1987/W_7/blob/main/r.jpg)
+
 Este proyecto tiene como objetivo utilizar técnicas de Machine Learning para predecir el precio de los ordenadores portátiles basándose en sus características. Para ello, se utilizan dos archivos CSV: uno de entrenamiento (train.csv) que contiene tanto las características (variables independientes) como los precios (variable dependiente), y otro de prueba (test.csv) que solo contiene las características.
 
 ## Proceso
